@@ -1,5 +1,6 @@
 # Superproyecto grupal de github 
-*aqui podríamos poner por ejemplo, la describción de las funcionalidades del proyecto y si estan en desarrollo o estan integrados en el proyecto*  
-|Funcionalidad |Desarrollador| estado de desarrollo|
+* Aqui podríamos poner por ejemplo, la describción de las funcionalidades del proyecto y si estan en desarrollo o estan integrados en el proyecto*  
+|Funcionalidad |Desarrollador| Estado de desarrollo|
 |--------------|-------------|---------------------|
-|Resistencias antibioticas|Alber|en proceso|
+|Resistencias antibioticas|Alber|En proceso|
+|Diseño de proteínas|Alber|En proceso|
