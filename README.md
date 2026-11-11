@@ -1,8 +1,10 @@
-# Actividad-grupal-IPC
+# Actividad grupal IPC
+
+En este README.md explicamos que hay en este repositorio, como se utiliza, que caracteristicas tiene...
 
 > [!IMPORTANT]
-> This explanation is in Powershell commands!!
+> Esto es un trabajo del Máster en Bioinformática de la UNIR!
 
 ```powershell
-Rename-Item foldx_1_20270131.exe foldx.exe
+cp aaa
 ```
