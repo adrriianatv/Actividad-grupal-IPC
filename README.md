@@ -15,8 +15,8 @@ En este README.md explicamos que hay en este repositorio, como se utiliza, que c
 cp aaa
 ```
 
-Descripción detallada del proyecto
-Propósito
-Objetivos
+Descripción detallada del proyecto : **analizar la expresión génica de un conjunto de muestras utilizando datos de secuenciación de ARN (RNA-Seq)**
+Propósito  ???
+Objetivos ???
 Instrucciones de uso 
 Información relevante
