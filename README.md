@@ -14,3 +14,9 @@ En este README.md explicamos que hay en este repositorio, como se utiliza, que c
 ```powershell
 cp aaa
 ```
+
+Descripción detallada del proyecto
+Propósito
+Objetivos
+Instrucciones de uso 
+Información relevante
