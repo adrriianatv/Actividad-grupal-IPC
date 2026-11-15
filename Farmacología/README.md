@@ -7,7 +7,7 @@ A partir de los resulados de RNAseq y del análisis estructural de las proteína
 ## Archivos de la carpeta
 
 * `README.md`: describe el propósito de esta etapa del proyecto
-* `dianas.txt´ : listado de las proteínas seleccionadas tras el análisis de expresión
+* `dianas.txt` : listado de las proteínas seleccionadas tras el análisis de expresión
 * `reposcionamiento.py´ : scripts base para filtrar y cruzar los fármacos candidatos
 * `screening.r´ : evaluación de los candidatos y generación de gráficos 
 * `candidatos.csv´ : tabla de referencia para los resultados obtenidos de esta búsqueda incluyendo la diana asociada
