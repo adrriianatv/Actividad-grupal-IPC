@@ -35,10 +35,11 @@ Aprender a organizar un proyecto científico en un repositorio compartido, de fo
    ```
 > [!NOTE]
 > Clonar el repositorio descarga en tu ordenador una copia completa del proyecto, con todo su historial, para que puedas trabajar en local y luego sincronizar tus cambios con GitHub
-3. Instala las dependencias:
+
+2. Instala las dependencias:
    - **Python ≥ 3.8**: `pip install pandas matplotlib`
    - **R ≥ 4.0**
-4. Ejecuta los scripts desde la raíz del repositorio, por ejemplo:
+3. Ejecuta los scripts desde la raíz del repositorio, por ejemplo:
    ```bash
    python Secuenciación/find_ORF.py
    Rscript protein-design/grafico.r
