@@ -1,0 +1,5 @@
+# Script de ChimeraX: abre el modelo y el mapa de ejemplo
+open estructura.pdb
+open mapadensidad.mrc
+color bychain
+save figura.png supersample 3
