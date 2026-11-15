@@ -1,6 +1,4 @@
-'''
-Este archivo .gitignore indica a Git qué archivos y carpetas no debe rastrear ni subir al repositorio, para mantenerlo limpio y ligero. Parte de la plantilla oficial de Python que aparece en GitHub, porque la mayoría de los scripts del proyecto estarían en Python y esa plantilla ya incluye las reglas para los archivos que se generan automáticamente (cachés como __pycache__/, entornos virtuales, checkpoints de Jupyter...). Así no hay que escribirlas a mano y seguimos un estándar conocido. Al final hemos añadido reglas propias para los formatos de datos pesados típicos de bioinformática (FASTQ, BAM, mapas .mrc), que superan el límite de 100 MB por archivo de GitHub. Cada línea es una regla: se puede ignorar un archivo concreto, una extensión (*.pyc) o una carpeta entera (carpeta/), y las líneas que empiezan por # son comentarios. Al estar en la raíz, se aplica a todo el proyecto.
-'''
+# Este archivo .gitignore indica a Git qué archivos y carpetas no debe rastrear ni subir al repositorio, para mantenerlo limpio y ligero. Parte de la plantilla oficial de Python que aparece en GitHub, porque la mayoría de los scripts del proyecto estarían en Python y esa plantilla ya incluye las reglas para los archivos que se generan automáticamente (cachés como __pycache__/, entornos virtuales, checkpoints de Jupyter...). Así no hay que escribirlas a mano y seguimos un estándar conocido. Al final hemos añadido reglas propias para los formatos de datos pesados típicos de bioinformática (FASTQ, BAM, mapas .mrc), que superan el límite de 100 MB por archivo de GitHub. Cada línea es una regla: se puede ignorar un archivo concreto, una extensión (*.pyc) o una carpeta entera (carpeta/), y las líneas que empiezan por # son comentarios. Al estar en la raíz, se aplica a todo el proyecto.
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -231,5 +229,5 @@ __marimo__/
 *.vcf.gz
 
 # Crio-EM
-*.mrc
+# *.mrc 
 *.mrcs
