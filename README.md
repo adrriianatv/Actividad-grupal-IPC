@@ -23,7 +23,8 @@ Aprender a organizar un proyecto científico en un repositorio compartido, de fo
 | Búsqueda de ORFs y control de calidad | [nombre] | En proceso |
 | Gestión de muestras | [nombre] | En proceso |
 | Buenas Prácticas de Laboratorio | Angela | En proceso |
-| Resistencias antibióticas | Alber | Planificado |
+| Algoritmos basicos secuenciacion | Alberto | fase alfa |
+|bases de wet lab secuenciacion | Alberto |fase alfa
 | Farmacología | Andrea | En proceso |
 
 
