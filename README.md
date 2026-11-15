@@ -21,7 +21,7 @@ Aprender a organizar un proyecto científico en un repositorio compartido, de fo
 |---|---|---|
 | Estructura de proteínas | Adriana | En proceso |
 | Búsqueda de ORFs y control de calidad | [nombre] | En proceso |
-| Gestión de muestras | [nombre] | En proceso |
+| Gestión de muestras | Asier | En proceso |
 | Buenas Prácticas de Laboratorio | Angela | En proceso |
 | Algoritmos basicos secuenciacion | Alberto | fase beta |
 |bases de wet lab secuenciacion | Alberto |fase alfa |
