@@ -19,12 +19,14 @@ Aprender a organizar un proyecto científico en un repositorio compartido, de fo
 
 | Funcionalidad | Desarrollador | Estado de desarrollo |
 |---|---|---|
-| Resistencias antibioticas | Alber | En proceso |
 | Estructura de proteínas | Adriana | En proceso |
 | Búsqueda de ORFs y control de calidad | [nombre] | En proceso |
 | Gestión de muestras | [nombre] | En proceso |
 | Buenas Prácticas de Laboratorio | Angela | En proceso |
 | Resistencias antibióticas | Alber | Planificado |
+| Farmacología | Andrea | En proceso |
+
+
 
 ## Instrucciones de uso
 
