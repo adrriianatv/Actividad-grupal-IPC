@@ -1,3 +1,6 @@
-print("esta secuencia tiene tantos ORF")
+from ./samples import *
+x=Input("escribe el nombre exacto de la secuencia de samples a importar")
 
-#Igual habría que hacer control de calidad y limpieza, hay demasiados ORF. 
+# FUNCION DE ENCONTRAR orf
+
+print("esta secuencia tiene tantos ORF")
