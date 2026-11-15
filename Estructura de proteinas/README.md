@@ -15,5 +15,6 @@ Esta sección reúne ejemplos de los formatos de archivo más usados en biologí
 
 ## Scripts
 
-- **`design-trial.py`**: archivo de ejemplo en Python para el diseño de proteínas.
-- **`grafico.r`**: ejemplo básico de visualización de datos en R.
+- **`design-trial.py`**: archivo de ejemplo en Python para el diseño de proteínas
+- **`grafico.r`**: ejemplo básico de visualización de datos en R
+- - **`visualizacion.cxc`**: script de ChimeraX --> s una lista de comandos que se ejecutan en orden para abrir estructuras y mapas, darles estilo y guardar figuras sin tener que hacerlo a mano
